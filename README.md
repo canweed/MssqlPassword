@@ -1,8 +1,9 @@
 # MssqlPassword for java
 
 * Mssql PWDENCRYPT PWDCOMPARE java version
-* No dependencies
+* no dependencies
 * free licenses
+* jdk 1.8+
 
 ## Usage
 
