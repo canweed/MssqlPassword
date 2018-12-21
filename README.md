@@ -1,8 +1,8 @@
 # MssqlPassword
 
-- Mssql PWDENCRYPT PWDCOMPARE java version  
-- No dependencies  
-- free licenses</span>
+* Mssql PWDENCRYPT PWDCOMPARE java version
+* No dependencies
+* free licenses
 
 ## Usage
 
