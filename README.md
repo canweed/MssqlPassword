@@ -1,4 +1,4 @@
-# MssqlPassword
+# MssqlPassword for java
 
 * Mssql PWDENCRYPT PWDCOMPARE java version
 * No dependencies
