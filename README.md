@@ -2,7 +2,7 @@
 
 - Mssql PWDENCRYPT PWDCOMPARE java version  
 - No dependencies  
-- <span style="color:  #24292e;;">free licenses</span>
+- free licenses</span>
 
 ## Usage
 
